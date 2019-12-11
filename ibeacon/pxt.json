@@ -1,0 +1,14 @@
+{
+    "name": "Untitled",
+    "dependencies": {
+        "core": "*",
+        "bluetooth-beacons": "github:kshoji/pxt-bluetooth-beacons#v0.0.2",
+        "bluetooth": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ]
+}
